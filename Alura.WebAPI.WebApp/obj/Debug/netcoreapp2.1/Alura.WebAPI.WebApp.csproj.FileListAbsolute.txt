@@ -6,11 +6,9 @@ C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.We
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
-C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
-C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
