@@ -36,3 +36,10 @@ C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.We
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.genruntimeconfig.cache
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.deps.json
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.json
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.dev.json
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+C:\Alura\Alura.WebAPIParte2\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb

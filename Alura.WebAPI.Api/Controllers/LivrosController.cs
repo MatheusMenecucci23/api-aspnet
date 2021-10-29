@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Persistencia;
+using Alura.WebAPI.Api.Modelos;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
@@ -12,7 +13,10 @@ namespace Alura.ListaLeitura.Api.Controllers
 {
     [Authorize]
     [ApiController]
-    [Route("api/[controller]")]
+    [ApiExplorerSettings(GroupName = "v1")]//monstrando para o swagger que essa é a versão 1
+    //versão da api
+    [ApiVersion("1.0")]//Versionamento está suportando a versão 2.0
+    [Route("api/v{version:apiVersion}/[controller]")]
     public class LivrosController : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
@@ -23,6 +27,7 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(statusCode: 200, Type = typeof(List<LivroApi>))]
         public IActionResult ListaDeLivros()
         {
             var lista = _repo.All.Select(l => l.ToApi()).ToList();
@@ -30,6 +35,11 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet("{id}")]
+        //fornecendo algumas anotações para o Swagger UI
+        //Detalhando informações para o Swagger
+        [ProducesResponseType(statusCode: 200, Type = typeof(LivroApi))]
+        [ProducesResponseType(statusCode: 500, Type = typeof(ErrorResponse))]
+        [ProducesResponseType(statusCode: 404)]
         public IActionResult Recuperar(int id)
         {
             var model = _repo.Find(id);
@@ -54,6 +64,7 @@ namespace Alura.ListaLeitura.Api.Controllers
             return File("~/images/capas/capa-vazia.png", "image/png");
         }
 
+        
         [HttpPost]
         public IActionResult Incluir([FromForm] LivroUpload model)
         {

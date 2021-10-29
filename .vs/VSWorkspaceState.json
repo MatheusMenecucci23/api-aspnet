@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Alura.WebAPI.Api",
+    "\\Alura.WebAPI.Api\\Controllers",
     "\\Alura.WebAPI.WebApp",
     "\\Alura.WebAPI.WebApp\\HttpClients"
   ],
-  "SelectedNode": "\\Alura.WebAPI.WebApp\\HttpClients\\LivroApiClient.cs",
+  "SelectedNode": "\\Alura.WebAPI.Api\\Controllers\\Livros2Controller.cs",
   "PreviewInSolutionExplorer": false
 }

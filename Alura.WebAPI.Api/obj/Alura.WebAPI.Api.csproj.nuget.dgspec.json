@@ -56,11 +56,27 @@
               "version": "[2.1.1, )",
               "autoReferenced": true
             },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.9, )"
             }
           },
           "imports": [

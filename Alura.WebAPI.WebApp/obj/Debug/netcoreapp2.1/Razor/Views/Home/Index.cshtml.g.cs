@@ -72,7 +72,7 @@ using Alura.ListaLeitura.WebApp.Models;
             WriteLiteral("\r\n<main>\r\n    ");
             EndContext();
             BeginContext(92, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a712212be8aa493fb6ca7783a200c563", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65d17f6f7bf64418a2d6ce50dae83220", async() => {
                 BeginContext(157, 37, true);
                 WriteLiteral("\r\n        <p class=\"plus\">+</p>\r\n    ");
                 EndContext();
@@ -106,7 +106,7 @@ using Alura.ListaLeitura.WebApp.Models;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(495, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "175aa74f11d64f36baaf14591027fa8f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5c73b13d9df94c0e9f0d91b6bb863b9c", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -148,7 +148,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = livro;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(920, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8920c41db1924a98920b42b2cceebe3d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "368665e5d42842a387ae841aa6b948b4", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -190,7 +190,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = livro;
             WriteLiteral("                    ");
             EndContext();
             BeginContext(1333, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "82065d8085a9451cb1d934e0a2e1aaff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "fe451cca67e4410d89a5b0ef5e4cf413", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
